@@ -1,17 +1,17 @@
-global.you = ['12136852040'] 
+global.you = ['6281393160368'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
-global.rowner = ['12136852040'] // Real Owner Bot
-global.owner = ['12136852040'] // Owner Bot
-global.police = ['12136852040'] // Police Bot
-global.mods = ['12136852040']  // Want some help?
-global.prems = ['12136852040'] // Premium user has unlimited limit
+global.rowner = ['6281393160368'] // Real Owner Bot
+global.owner = ['6281393160368'] // Owner Bot
+global.police = ['6281393160368'] // Police Bot
+global.mods = ['6281393160368']  // Want some help?
+global.prems = ['6281393160368'] // Premium user has unlimited limit
 
 //menu wm
-global.wm = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm3 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm1 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.wm = 'ZRILL-𝗠𝗗'
+global.wm3 = 'ZRILL-𝗠𝗗'
+global.wm2 = 'ZRILL-𝗠𝗗'
+global.wm1 = 'ZRILL-𝗠𝗗'
 global.fotonya1 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/b6d6bbf2cd149982922c0.jpg' //ini juga ganti
@@ -89,9 +89,9 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.author = '©𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 | ©𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname = '𝗭RILL-𝗠𝗗'
+global.author = '©𝗭RILL-𝗠𝗗'
+global.wm = '𝗭RILL-𝗠𝗗 | ©𝗭RILL-𝗠𝗗'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
