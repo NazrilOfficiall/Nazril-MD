@@ -1,6 +1,6 @@
 global.you = ['6281393160368'] 
 //Developer Bot
-global.gc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
+global.gc = 'https://chat.whatsapp.com/KeA2YNkBvddIp70ReuqfKF'
 global.rowner = ['6281393160368'] // Real Owner Bot
 global.owner = ['6281393160368'] // Owner Bot
 global.police = ['6281393160368'] // Police Bot
